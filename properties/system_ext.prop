@@ -14,6 +14,9 @@ ro.bluetooth.leaudio_offload.supported=true
 # Charger
 ro.charger.enable_suspend=1
 
+# Display
+sys.brightness.disable_gamma_conversion=true
+
 # Media
 media.stagefright.thumbnail.prefer_hw_codecs=true
 ro.media.recorder-max-base-layer-fps=60
